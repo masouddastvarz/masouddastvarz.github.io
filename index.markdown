@@ -40,7 +40,7 @@ lang-ref:
 
 
 
-layout: "page"
+layout: "default"
 permalinks: /خانه/
 
 
