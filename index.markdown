@@ -40,9 +40,8 @@ lang-ref:
 
 
 
-layout: "default"
-home: /خانه/
-permalinks: /:lang/:title/:home
+layout: "page"
+permalinks: /خانه/
 
 
 
