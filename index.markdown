@@ -41,8 +41,8 @@ lang-ref:
 
 
 layout: "default"
-
-permalinks: fa/خانه/
+home: /خانه/
+permalinks: /:lang/:title/:home
 
 
 
