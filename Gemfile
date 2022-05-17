@@ -25,9 +25,9 @@ gem "jekyll-theme-hacker"
 #  gem 'jekyll-multiple-languages-plugin'
 #end
 
-group: :jekyll_plugins do
-  gem "github-pages"
-end
+#group: :jekyll_plugins do
+#  gem "github-pages"
+#end
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
 # and associated library.
 #platforms :mingw, :x64_mingw, :mswin, :jruby do
