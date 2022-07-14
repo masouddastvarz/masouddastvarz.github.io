@@ -27,7 +27,7 @@ gem "jekyll"#, "~> 1.1.2"
 #end
 
 #group: :jekyll_plugins do
-gem "github-pages"
+gem "github-pages", group: :jekyll_plugins
 #end
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
 # and associated library.
@@ -42,6 +42,6 @@ gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 gem "webrick", "~> 1.7"
 gem 'thread_safe', '~> 0.3.6'
 gem 'unf', '~> 0.1.4'
-gem 'jekyll-theme-hacker', '~> 0.2.0'
+#gem 'jekyll-theme-hacker', '~> 0.2.0'
 #gem 'social_media', '~> 0.0.3'
 #gem "github-pages", group: :jekyll_plugins
