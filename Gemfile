@@ -45,3 +45,4 @@ gem 'unf', '~> 0.1.4'
 #gem 'jekyll-theme-hacker', '~> 0.2.0'
 #gem 'social_media', '~> 0.0.3'
 #gem "github-pages", group: :jekyll_plugins
+gem 'faraday-retry', '~> 2.0'
