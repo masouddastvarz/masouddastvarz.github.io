@@ -31,8 +31,8 @@ lang-ref:"fa"
     <p aling= " center ">مدیریت: مهندس مسعود دست ورز</p>
     
     
-   <p align= " center "> 
-   
+    
+   <p align= " center ">
 
         تماس با ما:
         
@@ -48,8 +48,8 @@ lang-ref:"fa"
         
         بازرگانی دست ورز شعبه دیگری ندارد.
 
+ </p> 
   
-  </p>
 >
 
 layout: default
@@ -108,7 +108,7 @@ permalinks: /خانه/
 
 <div dir="rtl">
  
-  <p align= " center "
+  <p align= " center ">
   
 
            تماس با ما:
