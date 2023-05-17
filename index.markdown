@@ -28,7 +28,7 @@ lang-ref:"fa"
     
     <p align= " center ">با ارزوی موفقیت روز افزون</p>
     
-    <p aling= " center ">مدیریت: مهندس مسعود دست ورز</p>
+    <p aling= " center ">مدیرعامل: مهندس مسعود دست ورز</p>
     
     
     
@@ -41,9 +41,10 @@ lang-ref:"fa"
 
 
         ۸ ادرس:تهران-اتوبان فتح-خیابان نواب صفوی -کوچه خداوردی قهری پلاک۴۰ واحد
+        کد اقتصادی و استعلام ارزش افزوده : 05590267060002
         
        Email:masouddastvarz@protonmail.com
-       Website:www.dastvarztrading.com
+        Website:www.dastvarztrading.com
        موبایل: 09123964918
         
         بازرگانی دست ورز شعبه دیگری ندارد.<br>
@@ -83,7 +84,7 @@ permalinks: /خانه/
   
   <p align= " center ">با ارزوی موفقیت روز افزون</p>
   
-  <p aling= " center ">مدیریت: مهندس مسعود دست ورز</p>
+  <p aling= " center ">مدیرعامل: مهندس مسعود دست ورز</p>
   
   
   
@@ -118,6 +119,8 @@ permalinks: /خانه/
 
 
            ادرس:تهران-اتوبان فتح-خیابان نواب صفوی -کوچه خداوردی قهری پلاک۴۰ واحد ۸
+ 
+            کد اقتصادی و استعلام ارزش افزوده:05590267060002
   Email:masouddastvarz@protonmail.com
   Website:www.dastvarztrading.com
   
