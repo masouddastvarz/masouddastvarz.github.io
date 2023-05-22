@@ -58,3 +58,5 @@ gem "sms-easy", "~> 1.4"
 #gem "rspec-mocks", "~> 3.12"
 
 gem "faraday-retry", "~> 2.1"
+
+gem "jekyll-agency", "~> 1.0"
