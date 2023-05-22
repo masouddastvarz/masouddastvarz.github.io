@@ -1,5 +1,5 @@
-require 'bundler/setup'
-Bundler.require(:default)
+#require 'bundler/setup'
+#Bundler.require(:default)
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
