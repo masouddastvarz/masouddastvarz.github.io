@@ -59,4 +59,4 @@ gem "sms-easy", "~> 1.4"
 
 gem "faraday-retry", "~> 2.1"
 
-gem "jekyll-theme-hacker", "~> 0.2.0"
+gem "jekyll-theme-hacker", "~> 0.2.0" require: 'jekyll-theme-hacker'
