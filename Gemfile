@@ -49,10 +49,10 @@ gem 'unf', '~> 0.1.4'
 
 gem "sms-easy", "~> 1.4"
 
-gem "rspec", "~> 3.12"
+#gem "rspec", "~> 3.12"
 
-gem "rspec-core", "~> 3.12"
+#gem "rspec-core", "~> 3.12"
 
-gem "rspec-expectations", "~> 3.12"
+#gem "rspec-expectations", "~> 3.12"
 
-gem "rspec-mocks", "~> 3.12"
+#gem "rspec-mocks", "~> 3.12"
