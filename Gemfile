@@ -46,3 +46,13 @@ gem 'unf', '~> 0.1.4'
 #gem 'social_media', '~> 0.0.3'
 #gem "github-pages", group: :jekyll_plugins
 gem 'faraday-retry', '~> 2.0'
+
+gem "sms-easy", "~> 1.4"
+
+gem "rspec", "~> 3.12"
+
+gem "rspec-core", "~> 3.12"
+
+gem "rspec-expectations", "~> 3.12"
+
+gem "rspec-mocks", "~> 3.12"
