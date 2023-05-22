@@ -1,3 +1,5 @@
+require 'bundler/setup'
+Bundler.require(:default)
 #require 'bundler/setup'
 #Bundler.require(:default)
 # Welcome to Jekyll!
