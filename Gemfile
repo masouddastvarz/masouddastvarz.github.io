@@ -62,3 +62,13 @@ gem "faraday-retry", "~> 2.1"
 #gem "jekyll-theme-hacker", "~> 0.2.0"
 
 gem "kramdown-parser-gfm", "~> 1.1"
+
+gem "html-proofer", "~> 5.0"
+
+gem "rubocop-github", "~> 0.20.0"
+
+gem "w3c_validators", "~> 1.3"
+
+gem "jekyll-theme-hacker", "~> 0.2.0"
+
+#gemspec

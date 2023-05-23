@@ -5,11 +5,10 @@
 
 
 
-lang: fa
 
 title: "بازرگانی دست ورز"
 
-lang-ref:"fa"
+lang-ref: "fa"
                                                                                                                                                                                      <h1 align=" center ">بازرگانی دست ورز</h1>
 
 <h1 align= " center ">بازرگانی دست ورز برترین و بهترین نماینده و وارد کننده ماشین الات و دستگاه های نساجی و چرم و صنعتی در ایران</h1>
@@ -53,7 +52,7 @@ lang-ref:"fa"
 
 >
 
-layout: default
+layout: page
 permalinks: /خانه/
 
 
