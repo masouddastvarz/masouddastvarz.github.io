@@ -73,3 +73,4 @@ gem "w3c_validators", "~> 1.3"
 
 #gemspec
 gem "minima"
+gem 'github-pages'
