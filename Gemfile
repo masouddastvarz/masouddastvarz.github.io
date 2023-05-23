@@ -27,7 +27,7 @@ gem "jekyll"#, "~> 1.1.2"
 #end
 
 #group: :jekyll_plugins do
-#gem "github-pages", group: :jekyll_plugins
+gem "github-pages", group: :jekyll_plugins
 #end
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
 # and associated library.
@@ -72,5 +72,3 @@ gem "w3c_validators", "~> 1.3"
 #gem "jekyll-theme-hacker", "~> 0.2.0"
 
 #gemspec
-gem "minima"
-gem 'github-pages'
