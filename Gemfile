@@ -27,7 +27,7 @@ gem "jekyll"#, "~> 1.1.2"
 #end
 
 #group: :jekyll_plugins do
-gem "github-pages", group: :jekyll_plugins
+#gem "github-pages", group: :jekyll_plugins
 #end
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
 # and associated library.
@@ -59,4 +59,4 @@ gem "sms-easy", "~> 1.4"
 
 gem "faraday-retry", "~> 2.1"
 
-gem "jekyll-theme-hacker", "~> 0.2.0" 
+#gem "jekyll-theme-hacker", "~> 0.2.0" 
