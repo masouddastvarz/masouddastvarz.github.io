@@ -5,7 +5,7 @@
 
 
 
-lang: "fa"
+#lang: "fa"
 
 title: "بازرگانی دست ورز"
 
