@@ -1,3 +1,10 @@
+---
+layout: default
+
+---
+
+
+
 
 #require 'bundler/setup'
 #Bundler.require(:default)
