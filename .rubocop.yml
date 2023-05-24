@@ -1,11 +1,12 @@
-inherit_gem:
-  rubocop-github:
-    - config/default.yml
 
-AllCops:
-  Exclude:
-    - _site/**/*
-    - vendor/**/*
+#inherit_gem:
+ # rubocop-github:
+  #  - config/default.yml
 
-Layout/LineLength:
-  Enabled: false
+#AllCops:
+ # Exclude:
+  #  - _site/**/*
+   # - vendor/**/*
+
+#Layout/LineLength:
+ # Enabled: false
