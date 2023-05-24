@@ -50,10 +50,10 @@ title: "بازرگانی دست ورز"
  </p>
 
 >
-
+<!--
 layout: default
 permalinks: /خانه/
-
+-->
 
 
 ---
