@@ -4,11 +4,11 @@
 #
 
 # This config file is meant for settings that affect your whole blog, values
-title: بازرگانی دست ورز بهترین و برترین نماینده و وارد کننده ماشین الات نساجی و چرم و صنعتی 
-description: 
+title: بازرگانی دست ورز بهترین نماینده و وارد کننده ماشین الات نساجی و چرم و صنعتی
+description:
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://dastvarztrading.com"
+url: ""
 # yourself editing this file very often, consider using Jekyll's data files
 # feature for the data you need to update frequently.
 #
