@@ -34,7 +34,7 @@ title: "بازرگانی دست ورز"                                         
         ۸ ادرس:تهران-اتوبان فتح-خیابان نواب صفوی -کوچه خداوردی قهری پلاک۴۰ واحد
         کد اقتصادی و استعلام ارزش افزوده : 05590267060002
 
-       Email:masouddastvarz@protonmail.com
+       Email:masouddastvarz@gmail.com
         Website:www.dastvarztrading.com
        موبایل: 09123964918
 
@@ -105,7 +105,7 @@ permalinks: /خانه/
            ادرس:تهران-اتوبان فتح-خیابان نواب صفوی -کوچه خداوردی قهری پلاک۴۰ واحد ۸
 
             کد اقتصادی و استعلام ارزش افزوده:05590267060002
-  Email:masouddastvarz@protonmail.com
+  Email:masouddastvarz@gmail.com
   Website:www.dastvarztrading.com
 
            موبایل:09123964918
