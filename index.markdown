@@ -61,7 +61,12 @@ permalinks: /خانه/
 
 
 ---
-
+<!DOCTYPE html>
+<html>
+<head>
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+ <body>  
 <h1 align= " center ">بازرگانی دست ورز</h1>
 
  <h1 align= " center ">برترین و بهترین نماینده و واردکننده ماشین الات و دستگاه های نساجی و چرم و صنعتی در ایران</h1>
@@ -138,3 +143,5 @@ permalinks: /خانه/
 
      </p>
 </div>
+</body>
+</html>
