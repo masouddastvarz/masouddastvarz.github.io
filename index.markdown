@@ -61,11 +61,7 @@ permalinks: /خانه/
 
 
 ---
-<!DOCTYPE html>
-<html>
-<head>
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
   
 <h1 align= " center ">بازرگانی دست ورز</h1>
 
@@ -143,4 +139,3 @@ permalinks: /خانه/
 
      </p>
 </div>
-</html>
